@@ -151,6 +151,11 @@ button{
     padding-top: 60px;
     
 }
+.whole{
+    width:100%;
+    display: flex;
+    justify-content: center;
+}
 
 .fourimg1{
     width: 100vw;
